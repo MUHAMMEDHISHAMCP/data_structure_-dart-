@@ -89,8 +89,8 @@ List<int> buble(List<int> arr) {
   return arr;
 }
 
-void main(List<String> args) {
-  print(buble([6, 5, 1, 3, 2, 4]));
-}
+// void main(List<String> args) {
+//   print(buble([6, 5, 1, 3, 2, 4]));
+// }
 
 }
